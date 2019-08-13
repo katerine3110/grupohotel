@@ -1,0 +1,22 @@
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\ReservacionesBL\bin\Debug\ReservacionesBL.dll
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\ReservacionesBL\bin\Debug\ReservacionesBL.pdb
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\ReservacionesBL\obj\Debug\ReservacionesBL.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\ReservacionesBL\obj\Debug\ReservacionesBL.dll
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\ReservacionesBL\obj\Debug\ReservacionesBL.pdb
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\ReservacionesBL\obj\Debug\ReservacionesBL.csprojAssemblyReference.cache
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\ReservacionesBL\bin\Debug\ReservacionesBL.dll
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\ReservacionesBL\bin\Debug\ReservacionesBL.pdb
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\ReservacionesBL\obj\Debug\ReservacionesBL.csprojAssemblyReference.cache
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\ReservacionesBL\obj\Debug\ReservacionesBL.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\ReservacionesBL\obj\Debug\ReservacionesBL.dll
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\ReservacionesBL\obj\Debug\ReservacionesBL.pdb
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\ReservacionesBL\bin\Debug\ReservacionesBL.dll
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\ReservacionesBL\bin\Debug\ReservacionesBL.pdb
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\ReservacionesBL\obj\Debug\ReservacionesBL.csprojResolveAssemblyReference.cache
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\ReservacionesBL\obj\Debug\ReservacionesBL.dll
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\ReservacionesBL\obj\Debug\ReservacionesBL.pdb
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\ReservacionesBL\bin\Debug\ReservacionesBL.dll.config
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\ReservacionesBL\bin\Debug\EntityFramework.dll
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\ReservacionesBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\ReservacionesBL\bin\Debug\EntityFramework.xml
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\ReservacionesBL\bin\Debug\EntityFramework.SqlServer.xml

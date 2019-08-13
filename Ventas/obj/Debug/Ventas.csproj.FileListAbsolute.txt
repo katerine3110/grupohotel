@@ -1,0 +1,84 @@
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\VENTAS\Ventas\Ventas\bin\Debug\Ventas.exe.config
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\VENTAS\Ventas\Ventas\bin\Debug\Ventas.exe
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\VENTAS\Ventas\Ventas\bin\Debug\Ventas.pdb
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\VENTAS\Ventas\Ventas\obj\Debug\Ventas.csprojAssemblyReference.cache
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\VENTAS\Ventas\Ventas\obj\Debug\Ventas.Login.resources
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\VENTAS\Ventas\Ventas\obj\Debug\Ventas.Menu.resources
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\VENTAS\Ventas\Ventas\obj\Debug\Ventas.Properties.Resources.resources
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\VENTAS\Ventas\Ventas\obj\Debug\Ventas.csproj.GenerateResource.cache
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\VENTAS\Ventas\Ventas\obj\Debug\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\VENTAS\Ventas\Ventas\obj\Debug\Ventas.exe
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\VENTAS\Ventas\Ventas\obj\Debug\Ventas.pdb
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\VENTAS\Ventas\Ventas\obj\Debug\Ventas.Reservacion.resources
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\VENTAS\Ventas\Ventas\obj\Debug\Ventas.UltimasReservaciones.resources
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\bin\Debug\Ventas.exe.config
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\bin\Debug\Ventas.exe
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\bin\Debug\Ventas.pdb
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.csprojAssemblyReference.cache
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.Login.resources
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.Menu.resources
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.Properties.Resources.resources
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.UltimasReservaciones.resources
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.csproj.GenerateResource.cache
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.exe
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.pdb
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\bin\Debug\ReservacionesBL.dll
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\bin\Debug\ReservacionesBL.pdb
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.csproj.CopyComplete
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Final\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.NuevaReservacion.resources
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\bin\Debug\Ventas.exe.config
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\bin\Debug\Ventas.exe
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\bin\Debug\Ventas.pdb
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\bin\Debug\ReservacionesBL.dll
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\bin\Debug\ReservacionesBL.pdb
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.csprojAssemblyReference.cache
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.Login.resources
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.Menu.resources
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.NuevaReservacion.resources
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.Properties.Resources.resources
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.UltimasReservaciones.resources
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.csproj.GenerateResource.cache
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.csproj.CopyComplete
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.exe
+C:\Users\David\Desktop\II PAC 2019\LENGUAJES 3\Asignacion 4\VENTAS\Reservaciones\Ventas\obj\Debug\Ventas.pdb
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\bin\Debug\Ventas.exe.config
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\obj\Debug\Ventas.exe
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\obj\Debug\Ventas.pdb
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\bin\Debug\Ventas.exe
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\bin\Debug\Ventas.pdb
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\bin\Debug\EntityFramework.dll
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\bin\Debug\ReservacionesBL.dll
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\bin\Debug\ReservacionesBL.pdb
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\bin\Debug\EntityFramework.xml
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\obj\Debug\Ventas.csprojResolveAssemblyReference.cache
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\obj\Debug\Ventas.Login.resources
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\obj\Debug\Ventas.Menu.resources
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\obj\Debug\Ventas.NuevaReservacion.resources
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\obj\Debug\Ventas.Properties.Resources.resources
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\obj\Debug\Ventas.UltimasReservaciones.resources
+C:\Users\Nicole\Downloads\Reservaciones-Asignacion 4\Reservaciones\Ventas\obj\Debug\Ventas.csproj.GenerateResource.Cache
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\bin\Debug\Ventas.exe.config
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\obj\Debug\Ventas.exe
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\obj\Debug\Ventas.pdb
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\bin\Debug\Ventas.exe
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\bin\Debug\Ventas.pdb
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\bin\Debug\EntityFramework.dll
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\bin\Debug\ReservacionesBL.dll
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\bin\Debug\ReservacionesBL.pdb
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\bin\Debug\EntityFramework.xml
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\obj\Debug\Ventas.csprojResolveAssemblyReference.cache
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\obj\Debug\Ventas.Login.resources
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\obj\Debug\Ventas.Menu.resources
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\obj\Debug\Ventas.NuevaReservacion.resources
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\obj\Debug\Ventas.Properties.Resources.resources
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\obj\Debug\Ventas.UltimasReservaciones.resources
+C:\Users\Nicole\Downloads\Reservaciones\Reservaciones\Ventas\obj\Debug\Ventas.csproj.GenerateResource.Cache
+E:\Reservaciones\Reservaciones\Ventas\bin\Debug\Ventas.exe.config
+E:\Reservaciones\Reservaciones\Ventas\obj\Debug\Ventas.exe
+E:\Reservaciones\Reservaciones\Ventas\obj\Debug\Ventas.pdb
